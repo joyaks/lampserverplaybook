@@ -1,5 +1,5 @@
 ---
-- hosts: app 
+- hosts: devops 
   become: yes
   tasks :
   - name: install Apache
